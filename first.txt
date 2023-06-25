@@ -1,1 +1,6 @@
 This is the first document
+
+Main{
+	I have worked on login and register function which has been completed 
+	don't u wannnw know
+    }
